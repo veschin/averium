@@ -1,2 +1,22 @@
-{:ex1 {:desc "Первое тестовое задание"
-       :title "testing"}}
+{:ex1 {:desc
+       "https://www.codewars.com/kata/578fdcfc75ffd1112c0001a1
+
+        The function will return a single array containing
+        staff names in the order that they should empty the bin.
+
+        (fn sort* [data]) ->
+
+        [\"Stefan\" \"Raj\" \"Marie\"
+         \"Edward\" \"Amy\" \"Alexa\"
+         \"Liz\" \"Claire\" \"Juan\"
+         \"Katie\" \"Luke\" \"Dee\"]"
+       :title "The Lazy Startup Office"}
+
+ :ex2 {:desc
+       "https://www.codewars.com/kata/54b724efac3d5402db00065e
+
+        In this kata you have to write a simple Morse code decoder.
+
+        (fn decode* [data]) -> \"HEY JUDE\"
+        "
+       :title "Decode the Morse code"}}
